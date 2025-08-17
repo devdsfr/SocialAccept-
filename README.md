@@ -1,0 +1,2 @@
+# SocialAccept-
+Eradicador de consequencias
